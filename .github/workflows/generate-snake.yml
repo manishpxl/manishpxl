@@ -18,6 +18,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create output folder
+        run: mkdir -p dist
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
