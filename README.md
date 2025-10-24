@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <samp>「 Final Year B.Tech Student in Information Technology at Asansol Engineering College. Passionate about technology, coding, and continuous learning. 」
+    <samp>「 B.Tech Graduate (2025) in Information Technology from Asansol Engineering College. Passionate about technology, coding, and continuous learning. 」
     </samp>
 </p>
 
@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/manish-kumar-7b0535229/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://x.com/Manishkmr03" target="_blank">
+    <a href="https://x.com/manishpxl" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/manish.pxl" target="_blank">
@@ -31,7 +31,7 @@
 
 <p>
  👨‍💻 &emsp; I thrive on creating code and take satisfaction in seeing projects come to fruition. <br/><br/>
- 🌟 &emsp; I am dedicated to technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
+ 🌟 &emsp; I’m passionate about technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
  📧 &emsp; For any questions or professional inquiries, please contact me at: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
  💬 &emsp; If you have questions or feedback, feel free to open an <a href="https://github.com/manishpxl/contact-repository-/issues">issue</a> or leave a message.
 </p>
@@ -66,7 +66,7 @@
     <a href="https://www.geeksforgeeks.org/user/manishpxl/" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
     </a>
-    <a href="https://www.naukri.com/code360/profile/manishkmr03" target="_blank">
+    <a href="https://www.naukri.com/code360/profile/manishpxl" target="_blank">
         <img src="https://img.shields.io/badge/Coding%20Ninjas-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white"/>
     </a>
 </p>
