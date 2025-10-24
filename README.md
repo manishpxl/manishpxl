@@ -98,4 +98,6 @@
     <br/>
 </a>
 
-![Manish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishpxl&custom_title=Manish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manishpxl/manishpxl/output/snake.svg" alt="Snake animation" />
+</div>
