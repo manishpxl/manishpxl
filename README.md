@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm
-        <b><a target="_blank" href="https://manishkmr49.github.io/Portfolio-Manish-Kumar/">Manish Kumar</a></b>
+        <b><a target="_blank" href="https://manishpxl.github.io/Portfolio-Manish-Kumar/">Manish Kumar</a></b>
     </samp>
 </h3>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="https://manishkmr49.github.io/Portfolio-Manish-Kumar/" target="blank">
+    <a href="https://manishpxl.github.io/Portfolio-Manish-Kumar/" target="blank">
         <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/manish-kumar-7b0535229/" target="_blank">
@@ -20,7 +20,7 @@
     <a href="https://x.com/Manishkmr03" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/manishkmr49" target="_blank">
+    <a href="https://www.instagram.com/manish.pxl" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
 </p>
@@ -33,14 +33,12 @@
  👨‍💻 &emsp; I thrive on creating code and take satisfaction in seeing projects come to fruition. <br/><br/>
  🌟 &emsp; I am dedicated to technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
  📧 &emsp; For any questions or professional inquiries, please contact me at: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
- 💬 &emsp; If you have questions or feedback, feel free to open an <a href="https://github.com/manishkmr49/contact-repository-/issues">issue</a> or leave a message.
+ 💬 &emsp; If you have questions or feedback, feel free to open an <a href="https://github.com/manishpxl/contact-repository-/issues">issue</a> or leave a message.
 </p>
 
 <br/>
 <br/>
 <br/>
-
-
 
 ## Skills & Technologies
 
@@ -62,10 +60,10 @@
 ## Coding Profiles
 
 <p align="center">
-    <a href="https://leetcode.com/u/manishkmr49/" target="_blank">
+    <a href="https://leetcode.com/u/manishpxl/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
     </a>
-    <a href="https://www.geeksforgeeks.org/user/manishkmr49/" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/manishpxl/" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
     </a>
     <a href="https://www.naukri.com/code360/profile/manishkmr03" target="_blank">
@@ -79,25 +77,25 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/manishkmr49">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkmr49&theme=radical&border=7F3FBF&background=0D1117" alt="Manish's GitHub streak"/>
+  <a href="https://github.com/manishpxl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishpxl&theme=radical&border=7F3FBF&background=0D1117" alt="Manish's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/manishkmr49">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkmr49&theme=radical" alt="Manish's GitHub Contribution"/>
+  <a href="https://github.com/manishpxl">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishpxl&theme=radical" alt="Manish's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/manishkmr49">
-        <img alt="Manish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manishkmr49&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <a href="https://github.com/manishpxl">
+        <img alt="Manish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manishpxl&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </a>
-    <a href="https://github.com/manishkmr49">
-        <img alt="Manishkmr49's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manishkmr49&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <a href="https://github.com/manishpxl">
+        <img alt="Manishpxl's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manishpxl&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </a>
     <br/>
 </a>
 
-![Manish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishkmr49&custom_title=Manish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Manish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishpxl&custom_title=Manish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
