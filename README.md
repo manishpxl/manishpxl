@@ -76,9 +76,10 @@
 <hr/>
 <br/>
 
+<!-- Updated GitHub Streak Section -->
 <p align="center">
   <a href="https://github.com/manishpxl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishpxl&theme=radical&border=7F3FBF&background=0D1117" alt="Manish's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com?user=manishpxl&theme=radical&border=7F3FBF&background=0D1117" alt="Manish's GitHub streak"/>
   </a>
 </p>
 
