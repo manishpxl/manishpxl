@@ -1,4 +1,5 @@
 <!-- Intro  -->
+
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm
         <b><a target="_blank" href="https://manishpxl.github.io/Portfolio-Manish-Kumar/">Manish Kumar</a></b>
@@ -6,13 +7,14 @@
 </h3>
 
 <p align="center">
-    <samp>「 B.Tech Graduate (2025) in Information Technology from Asansol Engineering College. Passionate about technology, coding, and continuous learning. 」
+    <samp>
+        「 MERN Stack Developer 💻 | Java Enthusiast ☕ | B.Tech IT Graduate (2025) from Asansol Engineering College 」
     </samp>
 </p>
 
 <p align="center">
     <a href="https://manishpxl.github.io/Portfolio-Manish-Kumar/" target="blank">
-        <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/manish-kumar-7b0535229/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,46 +22,51 @@
     <a href="https://x.com/manishpxl" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/manish.pxl" target="_blank">
+    <a href="https://www.instagram.com/manishpatell7" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
 </p>
+
 <br />
 
-<!-- About Section -->
 # About Me
 
 <p>
- 👨‍💻 &emsp; I thrive on creating code and take satisfaction in seeing projects come to fruition. <br/><br/>
- 🌟 &emsp; I’m passionate about technology and always seek opportunities to expand my knowledge and skills. <br/><br/>
- 📧 &emsp; For any questions or professional inquiries, please contact me at: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
- 💬 &emsp; If you have questions or feedback, feel free to open an <a href="https://github.com/manishpxl/contact-repository-/issues">issue</a> or leave a message.
+ 👨‍💻 &emsp; I'm a <b>MERN Stack Developer</b> who enjoys building scalable full-stack web applications. <br/><br/>
+ ☕ &emsp; Java enthusiast with strong knowledge of OOPs, DSA, and backend development. <br/><br/>
+ 🚀 &emsp; Passionate about solving problems, learning new technologies, and contributing to meaningful projects. <br/><br/>
+ 📧 &emsp; Contact me for collaboration or opportunities: <a href="mailto:manish19464@gmail.com">manish19464@gmail.com</a> <br/><br/>
+ 💬 &emsp; Feel free to open an <a href="https://github.com/manishpxl/contact-repository-/issues">issue</a> if you'd like to connect or discuss ideas.
 </p>
 
-<br/>
 <br/>
 
 ## 🧠 Skills & Technologies
 
 <p align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A9D58?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![React](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/Node_JS-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express_JS-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </p>
 
@@ -84,23 +91,23 @@
 <hr/>
 <br/>
 
-<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/manishpxl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishpxl&theme=radical" alt="Manish's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishpxl&theme=radical"/>
   </a>
 </p>
 
-<a> 
+<p align="center">
     <a href="https://github.com/manishpxl">
-        <img alt="Manish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manishpxl&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manishpxl&show_icons=true&count_private=true&theme=react"/>
     </a>
     <a href="https://github.com/manishpxl">
-        <img alt="Manishpxl's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manishpxl&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manishpxl&layout=compact&theme=react"/>
     </a>
-    <br/>
-</a>
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manishpxl/manishpxl/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/manishpxl/manishpxl/output/snake.svg" alt="Snake animation"/>
 </div>
