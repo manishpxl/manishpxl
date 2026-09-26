@@ -12,6 +12,14 @@
 import fs from "node:fs";
 import path from "node:path";
 
+// AUTO UPDATE CONFIG
+// For automatic updates, change this line:
+// const USERNAME = "manishpxl";
+// to:
+// const USERNAME = process.env.GH_USERNAME || "manishpxl";
+// This allows the GitHub Actions workflow to use the GH_USERNAME
+// environment variable while keeping "manishpxl" as the default username.
+
 const USERNAME = "manishpxl";
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 const OUTPUT = process.env.OUTPUT_PATH || "dist/github-jet.svg";
