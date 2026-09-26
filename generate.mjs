@@ -12,7 +12,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const USERNAME = process.env.GH_USERNAME || "manishpxl";
+const USERNAME = "manishpxl";
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 const OUTPUT = process.env.OUTPUT_PATH || "dist/github-jet.svg";
 
